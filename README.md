@@ -1,2 +1,1 @@
-# Ineuron-Classes-Assignments
-Python Sessions/ Assignments
+Python and Machine Learning
